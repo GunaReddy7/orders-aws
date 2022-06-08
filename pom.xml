@@ -200,13 +200,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>guna</name>
+	      <name>admin</name>
 	      <url>http://172.16.238.77:8081/repository/ordersaws-release////</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>guna</name>
+	      <name>admin</name>
 	      <url>http://172.16.238.77:8081/repository/ordersaws-snapshot////</url>
 	    </snapshotRepository>
 	    
